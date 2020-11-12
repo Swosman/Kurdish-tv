@@ -1,0 +1,41 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385265.jpeg" group-title="Kurdish", rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385267.png" group-title="Kurdish", K 24
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/40
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385268.png" group-title="Kurdish", K 24
+https://live.karwan.tv/karwan.tv/kurdistan24-tv/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385269.png" group-title="Kurdish", K TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/42
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385270.jpg" group-title="Kurdish", NRT
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/53
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385271.jpg" group-title="Kurdish", NRT 2
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/54
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385272.png" group-title="Kurdish", Kurdsat
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/35
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385273.png" group-title="Kurdish", Kurdsat
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/32
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385274.jpg" group-title="Kurdish", GK
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/37
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385275.jpg" group-title="Kurdish", Zagros
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/48
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385276.jpg" group-title="Kurdish", Kerkuk tv
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/58
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/129234158.png" group-title="Kurdish", AVA tv
+https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_3310000/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385277.png" group-title="Kurdish", ava
+https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_850000/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385279.jpg" group-title="Kurdish", KurdMax
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/30
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385279.jpg" group-title="Kurdish", KurdMax
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/31
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385281.jpg" group-title="Kurdish", KurdMax Show
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/32
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385282.jpg" group-title="Kurdish", KurdMax Show
+http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/128385283.png" group-title="Kurdish", KurdMax Music
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/33
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/129440571.jpg" group-title="Kurdish", New HD
+https://aramhd.com/images/n1.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ef24e170-1bcc-11eb-b628-b1c4b62ec90d/774595/129450588.png" group-title="Kurdish", Utv HD
+http://liveshell.net:1935/live/utv/chunklist_w1767862659.m3u8
